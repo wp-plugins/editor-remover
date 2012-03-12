@@ -2,7 +2,7 @@
 
 /*
 
-Plugin Name: Disable Editor
+Plugin Name: Editor Remover
 
 Plugin URI: http://maisdesign.it
 

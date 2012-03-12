@@ -1,6 +1,6 @@
 === Editor Remove ===
 Contributors: downloadtaky
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AYCGU964GADGL
+Donate link: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AYCGU964GADGL" title="I like coffe!">Offer me a coffe</a>
 Tags: posts,editor,custom fields
 Requires at least: 3.3.1
 Tested up to: 3.3.1
